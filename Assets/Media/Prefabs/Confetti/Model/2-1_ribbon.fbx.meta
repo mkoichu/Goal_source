@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 51345837b951ecf43b4f2f667a52149e
+timeCreated: 1525075072
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 1_bounding_append
+    100004: 1_bounding_append_002
+    100006: 1_bounding_append_003
+    100008: 1_bounding_append_004
+    100010: 1_bounding_append_005
+    100012: 1_bounding_append_006
+    100014: 1_confetti
+    100016: 1_confetti_001
+    100018: 2-1_ribbon
+    100020: 2-1_ribbon_001
+    100022: bills_1_001
+    100024: bills_1_002
+    100026: bills_2_custom_no1
+    100028: bills_3_custom_no2
+    100030: bills_4_custom_no3
+    100032: black_feather_4
+    100034: brown_feather_5
+    100036: feather_1
+    100038: feather_1_001
+    100040: feather_1_002
+    100042: feather_2
+    100044: feather_3
+    100046: feather_6
+    100048: feather_7
+    100050: feather_8
+    100052: feather_9
+    100054: leaf_1_1
+    100056: leaf_1_2_red
+    100058: leaf_1_3_dark
+    100060: maple_1
+    100062: maple_1_001
+    100064: maple_2
+    100066: maple_3
+    100068: maple_4
+    100070: maple_5
+    100072: maple_ja_1
+    100074: maple_ja_2
+    100076: maple_ja_3
+    100078: maple_ja_4
+    100080: maple_ja_5
+    100082: Petal1_c_pink
+    100084: Plane_001
+    100086: Plane_002
+    100088: Plane_019
+    100090: Plane_020
+    100092: 2-1_ribbon_002
+    400000: //RootNode
+    400002: 1_bounding_append
+    400004: 1_bounding_append_002
+    400006: 1_bounding_append_003
+    400008: 1_bounding_append_004
+    400010: 1_bounding_append_005
+    400012: 1_bounding_append_006
+    400014: 1_confetti
+    400016: 1_confetti_001
+    400018: 2-1_ribbon
+    400020: 2-1_ribbon_001
+    400022: bills_1_001
+    400024: bills_1_002
+    400026: bills_2_custom_no1
+    400028: bills_3_custom_no2
+    400030: bills_4_custom_no3
+    400032: black_feather_4
+    400034: brown_feather_5
+    400036: feather_1
+    400038: feather_1_001
+    400040: feather_1_002
+    400042: feather_2
+    400044: feather_3
+    400046: feather_6
+    400048: feather_7
+    400050: feather_8
+    400052: feather_9
+    400054: leaf_1_1
+    400056: leaf_1_2_red
+    400058: leaf_1_3_dark
+    400060: maple_1
+    400062: maple_1_001
+    400064: maple_2
+    400066: maple_3
+    400068: maple_4
+    400070: maple_5
+    400072: maple_ja_1
+    400074: maple_ja_2
+    400076: maple_ja_3
+    400078: maple_ja_4
+    400080: maple_ja_5
+    400082: Petal1_c_pink
+    400084: Plane_001
+    400086: Plane_002
+    400088: Plane_019
+    400090: Plane_020
+    400092: 2-1_ribbon_002
+    2300000: //RootNode
+    2300002: 1_bounding_append
+    2300004: 1_bounding_append_002
+    2300006: 1_bounding_append_003
+    2300008: 1_bounding_append_004
+    2300010: 1_bounding_append_005
+    2300012: 1_bounding_append_006
+    2300014: 1_confetti
+    2300016: 1_confetti_001
+    2300018: 2-1_ribbon
+    2300020: 2-1_ribbon_001
+    2300022: bills_1_001
+    2300024: bills_1_002
+    2300026: bills_2_custom_no1
+    2300028: bills_3_custom_no2
+    2300030: bills_4_custom_no3
+    2300032: black_feather_4
+    2300034: brown_feather_5
+    2300036: feather_1
+    2300038: feather_1_001
+    2300040: feather_1_002
+    2300042: feather_2
+    2300044: feather_3
+    2300046: feather_6
+    2300048: feather_7
+    2300050: feather_8
+    2300052: feather_9
+    2300054: leaf_1_1
+    2300056: leaf_1_2_red
+    2300058: leaf_1_3_dark
+    2300060: maple_1
+    2300062: maple_1_001
+    2300064: maple_2
+    2300066: maple_3
+    2300068: maple_4
+    2300070: maple_5
+    2300072: maple_ja_1
+    2300074: maple_ja_2
+    2300076: maple_ja_3
+    2300078: maple_ja_4
+    2300080: maple_ja_5
+    2300082: Petal1_c_pink
+    2300084: Plane_001
+    2300086: Plane_002
+    2300088: Plane_019
+    2300090: Plane_020
+    2300092: 2-1_ribbon_002
+    3300000: //RootNode
+    3300002: 1_bounding_append
+    3300004: 1_bounding_append_002
+    3300006: 1_bounding_append_003
+    3300008: 1_bounding_append_004
+    3300010: 1_bounding_append_005
+    3300012: 1_bounding_append_006
+    3300014: 1_confetti
+    3300016: 1_confetti_001
+    3300018: 2-1_ribbon
+    3300020: 2-1_ribbon_001
+    3300022: bills_1_001
+    3300024: bills_1_002
+    3300026: bills_2_custom_no1
+    3300028: bills_3_custom_no2
+    3300030: bills_4_custom_no3
+    3300032: black_feather_4
+    3300034: brown_feather_5
+    3300036: feather_1
+    3300038: feather_1_001
+    3300040: feather_1_002
+    3300042: feather_2
+    3300044: feather_3
+    3300046: feather_6
+    3300048: feather_7
+    3300050: feather_8
+    3300052: feather_9
+    3300054: leaf_1_1
+    3300056: leaf_1_2_red
+    3300058: leaf_1_3_dark
+    3300060: maple_1
+    3300062: maple_1_001
+    3300064: maple_2
+    3300066: maple_3
+    3300068: maple_4
+    3300070: maple_5
+    3300072: maple_ja_1
+    3300074: maple_ja_2
+    3300076: maple_ja_3
+    3300078: maple_ja_4
+    3300080: maple_ja_5
+    3300082: Petal1_c_pink
+    3300084: Plane_001
+    3300086: Plane_002
+    3300088: Plane_019
+    3300090: Plane_020
+    3300092: 2-1_ribbon_002
+    4300000: 1
+    4300002: 2-1_ribbon
+    4300004: 2-1_ribbon_001
+    4300006: 1_confetti_001
+    4300008: bills_3_custom_no2
+    4300010: bills_4_custom_no3
+    4300012: bills_2_custom_no1
+    4300014: 1_confetti
+    4300016: bills_1_001
+    4300018: Plane_002
+    4300020: bills_1_002
+    4300022: feather_9
+    4300024: feather_8
+    4300026: feather_7
+    4300028: feather_6
+    4300030: brown_feather_5
+    4300032: black_feather_4
+    4300034: feather_3
+    4300036: feather_2
+    4300038: feather_1_002
+    4300040: feather_1_001
+    4300042: Plane_001
+    4300044: feather_1
+    4300046: maple_ja_5
+    4300048: maple_ja_4
+    4300050: maple_ja_3
+    4300052: maple_ja_2
+    4300054: maple_5
+    4300056: maple_4
+    4300058: maple_3
+    4300060: maple_2
+    4300062: maple_1_001
+    4300064: leaf_1_2_red
+    4300066: leaf_1_3_dark
+    4300068: leaf_1_1
+    4300070: Plane_020
+    4300072: Plane_019
+    4300074: 1_bounding_append_005
+    4300076: 1_bounding_append_004
+    4300078: 1_bounding_append_003
+    4300080: 1_bounding_append_002
+    4300082: 1_bounding_append_006
+    4300084: 1_bounding_append
+    4300086: Petal1_c_pink
+    4300088: maple_1
+    4300090: maple_ja_1
+    4300092: 2-1_ribbon_002
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__4UV_change_png
+    second: {fileID: 2100000, guid: b20ab178b7e0e344d85cf51e7c2b962c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004__4UV_change_png
+    second: {fileID: 2100000, guid: b20ab178b7e0e344d85cf51e7c2b962c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008__1_png
+    second: {fileID: 2100000, guid: 1d0f802fabba9d24f8117730416c8520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009__1_png
+    second: {fileID: 2100000, guid: 1d0f802fabba9d24f8117730416c8520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1120__0903-64_big_canopy_png
+    second: {fileID: 2100000, guid: f43b614f60036fe4aa56911738ea6697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1120__uv_png
+    second: {fileID: 2100000, guid: bacb6c96af38ae94ca5cb30bdff48042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1212__uv_png
+    second: {fileID: 2100000, guid: bacb6c96af38ae94ca5cb30bdff48042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1319__uv_png
+    second: {fileID: 2100000, guid: bacb6c96af38ae94ca5cb30bdff48042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_Leaf__0903-26_apply_png
+    second: {fileID: 2100000, guid: 1a701f063199b944d9c7556b6dc097bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_Leaf__UV_map_leaf_a_png
+    second: {fileID: 2100000, guid: 4c088a15f705361428d8ac8fd69eb42b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_Leaf__UV_map_leaf_a_png_001
+    second: {fileID: 2100000, guid: 4c088a15f705361428d8ac8fd69eb42b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__1_png
+    second: {fileID: 2100000, guid: 1d0f802fabba9d24f8117730416c8520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_petal__0215-4_png
+    second: {fileID: 2100000, guid: 01ade74150c590344b2b22209c5384b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 0609a25958db5d6468b7ea0029f4a93a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__0903-59_big_canopy_png
+    second: {fileID: 2100000, guid: 9d68ec9873400154aab4fdb91590b62d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Texture_confetti_png
+    second: {fileID: 2100000, guid: 63eaeae864e4a7c49ab9079af5f3d648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__UV_bills_png
+    second: {fileID: 2100000, guid: 74e882ab9c7e84e4fb0e21905a3a1b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Untitled_001
+    second: {fileID: 2100000, guid: 3a7017c69ea0bfa4281fefeb74684bff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Untitled_004
+    second: {fileID: 2100000, guid: 792be2b89c7aa5748bd6d3423955107c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__uv_png
+    second: {fileID: 2100000, guid: bacb6c96af38ae94ca5cb30bdff48042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 8159036b467d0804f8eea6e8f2d40aba, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 400
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

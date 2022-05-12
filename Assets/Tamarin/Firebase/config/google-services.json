@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87786044445",
+    "firebase_url": "https://goal213-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "goal213",
+    "storage_bucket": "goal213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87786044445:android:6c911fc30f1e6f05161af4",
+        "android_client_info": {
+          "package_name": "com.Reflect.Goal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87786044445-cj3pqlinl2aentvnquequ8e1inclj190.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWd53Zj4cdbHhKIQv7u7wLyJZGVTsXgUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87786044445-cj3pqlinl2aentvnquequ8e1inclj190.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87786044445-0b3gflphh6qpltgc5h4o67g0suduhd2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Reflect.Goal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
